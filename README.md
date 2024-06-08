@@ -1,6 +1,18 @@
 ## Project Overview
 A platform for tracking software bugs and issues. Teams can report bugs, assign tasks, and track progress until resolution.
 
+##Tech Stack
+Backend:
+
+Java: The core programming language used for backend development.
+Spring Boot: A robust framework for building the backend, managing dependencies, and setting up the project structure.
+H2 Database: An in-memory database used for quick setup and testing.
+Spring Security: Provides authentication and authorization mechanisms.
+
+Frontend:
+
+React: A JavaScript library for building user interfaces, ensuring a responsive and dynamic user experience.
+Axios: A promise-based HTTP client used for making API requests to the backend.
 
 ## Backend Setup
 1. Navigate to the `backend` directory.
