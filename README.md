@@ -12,6 +12,8 @@ H2 Database: An in-memory database used for quick setup and testing.
 
 Spring Security: Provides authentication and authorization mechanisms.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 Frontend:
 
 React: A JavaScript library for building user interfaces, ensuring a responsive and dynamic user experience.
